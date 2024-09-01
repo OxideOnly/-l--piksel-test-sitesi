@@ -76,15 +76,15 @@ button:hover {
 }
 
 .color-box[style*="background-color: blue"] {
-    background-color: #010183;
+    background-color: #4000f9;
 }
 
 .color-box[style*="background-color: green"] {
-    background-color: #025a02;
+    background-color: #5cfd3d;
 }
 
 .color-box[style*="background-color: red"] {
-    background-color: #880202;
+    background-color: #e90003;
 }
 
 .color-box[style*="background-color: purple"] {
